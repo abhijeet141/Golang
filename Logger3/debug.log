@@ -1,0 +1,8 @@
+Info: 2024/12/10 12:33:13.491665 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:16: Application Started
+ERROR: 2024/12/10 12:33:13.492292 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:17: This is an error log
+Info: 2024/12/10 12:40:51.933540 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:16: Application Started
+Info: 2024/12/10 12:40:51.934753 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:17: User Logged In
+ERROR: 2024/12/10 12:40:51.934753 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:18: This is an error log
+Info: 2024/12/10 14:11:01.454344 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:17: Application Started
+Info: 2024/12/10 14:11:01.455124 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:18: User Logged In
+ERROR: 2024/12/10 14:11:01.455682 C:/Users/91700/Desktop/GoLang Training/Logger3/main.go:19: This is an error log
